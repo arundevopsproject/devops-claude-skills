@@ -1,4 +1,4 @@
-# DevOps Skills
+# DevOps Claude Skills
 
 Community repository of DevOps-focused skills for [Claude Code](https://claude.com/claude-code).
 
